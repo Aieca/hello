@@ -6,7 +6,7 @@ A simple project to demonstrate version control and GitHub
 
 Some text
 
-## Third level heading
+### Third level heading
 
 Some more text
 
